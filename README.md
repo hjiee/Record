@@ -6,4 +6,4 @@
 #
 
 ### :pushpin: Conference
- - [Conference](https://github.com/hjiee/TIL/blob/master/Conference.md) 참석에 대한 정보를 기록하는 곳.
+ - :link:[Conference](https://github.com/hjiee/TIL/blob/master/Conference.md) 참석에 대한 정보를 기록하는 곳.
