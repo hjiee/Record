@@ -1,4 +1,5 @@
-# :ballot_box_with_check:참석완료 Conference
+# Conference
+## :ballot_box_with_check:참석완료 
 
 ### :pushpin: Kotlin Night 2019 서울
  - 주최 : Kotlin Korea
@@ -29,7 +30,7 @@
 
 <br></br>  
 
-# :black_square_button:참석예정 Conference
+## :black_square_button:참석예정
 
 ### :pushpin: I/O Extended 2019 in Korea Android
  - 주최 : GDG Korea Android
