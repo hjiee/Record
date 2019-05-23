@@ -24,11 +24,7 @@
  :three: 안드로이드 난독화 by 김용욱  
  :four: 카카오톡 샵탭의 Clean Architectuce 적용기 by 케빈  
 
-<br></br>  
-
-***  
-
-<br></br>  
+#
 
 ## :black_square_button:참석예정
 
