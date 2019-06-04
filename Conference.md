@@ -62,6 +62,21 @@
  :two:   
  :three:   
  :four:   
+ 
+ ### :pushpin: I/O '19 Extended Pangyo
+ - 주최 : GDG Korea Android
+ - 일시 : 2019년 6월 21일(금) 19:00 - 22:30
+ - 장소 : 판교 H스퀘어 N동 7층 카카오 스위치온  
+ - 참조 : :link:https://festa.io/events/315 
+ - 세션  
+ :one: What's New In Javascript and Why - 김지훈  
+ :two: Flutter - what's new in 2019 - 김민상  
+ :three: Machine Learning in Google I/O 2019 - 신정규  
+ :four: TensorFlow ?, Tensor Processing Unit?, Edge TPU? 에 대해서 - 조만석  
+ :five: Introduction to Jetpack Compose - 나윤호  
+ :six: Android Dark Theme - 안성용  
+ :seven: What’s new in Architecture Components - 강사룡  
+ 
 
 ### :pushpin: I/O Extended 2019 Seoul
  - 주최 : GDG Seoul
