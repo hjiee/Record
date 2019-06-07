@@ -77,6 +77,16 @@
  :six: Android Dark Theme - 안성용  
  :seven: What’s new in Architecture Components - 강사룡  
  
+ ### :pushpin: 만들면서 배우는 Flutter 코드랩
+ - 주최 : 조은
+ - 일시 : 2019년 6월 29일(토) 13:30 - 16:30
+ - 장소 : 구글 스타트업 캠퍼스
+ - 참조 : :link:https://festa.io/events/319
+ - 세션  
+ :one: Flutter 환경 설정  
+ :two: Codelabs  
+ :three: Wrap up  
+
 
 ### :pushpin: I/O Extended 2019 Seoul
  - 주최 : GDG Seoul
