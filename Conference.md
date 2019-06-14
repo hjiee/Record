@@ -1,7 +1,15 @@
 # Conference
-## :ballot_box_with_check:참석완료 
+## :ballot_box_with_check:참석완료  
 
-
+ ### :pushpin: MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지
+ - 주최 : OKKY
+ - 일시 : 2019년 6월 13일(목) 20:00 - 21:40
+ - 장소 : 서울시 강남구 역삼로 180 (역삼동, 790-6)  
+ - 참조 : :link:https://okky.kr/article/583610
+ - 세션  
+ :one: <MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 (50’)>  
+ :two: FREE TALKING  
+ 
 
 ### :pushpin: GDG Android at Pangyo!
  - 주최 : GDG Korea Android
@@ -36,14 +44,6 @@
  :one: 스타트업 창업부터 폐업까지의 기승전결 이야기  
  :two: 창업~폐업의 과정에서 SI 출신 개발자들과 동고동락하며 함께 일했던 경험  
  
- ### :pushpin: MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지
- - 주최 : OKKY
- - 일시 : 2019년 6월 13일(목) 20:00 - 21:40
- - 장소 : 서울시 강남구 역삼로 180 (역삼동, 790-6)  
- - 참조 : :link:https://okky.kr/article/583610
- - 세션  
- :one: <MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 (50’)>  
- :two: FREE TALKING  
 
 <br></br>
 
