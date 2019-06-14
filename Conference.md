@@ -36,12 +36,6 @@
  :one: 스타트업 창업부터 폐업까지의 기승전결 이야기  
  :two: 창업~폐업의 과정에서 SI 출신 개발자들과 동고동락하며 함께 일했던 경험  
  
-#
-
-<br></br>
-
-## :black_square_button:참석예정
-
  ### :pushpin: MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지
  - 주최 : OKKY
  - 일시 : 2019년 6월 13일(목) 20:00 - 21:40
@@ -50,6 +44,11 @@
  - 세션  
  :one: <MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 (50’)>  
  :two: FREE TALKING  
+
+<br></br>
+
+## :black_square_button:참석예정
+
 
  
 ### :pushpin: I/O Extended 2019 in Korea Android
