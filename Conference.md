@@ -1,6 +1,14 @@
 # Conference
 ## :ballot_box_with_check:참석완료  
 
+### :pushpin: I/O Extended 2019 in Korea Android
+ - 주최 : GDG Korea Android
+ - 일시 : 2019년 6월 15일(토) 12:00 - 18:00
+ - 장소 : 구글 스타트업 캠퍼스 서울 지하2층(삼성역)  
+ - 참조 : :link:https://festa.io/events/300  
+ - 세션  
+ 
+ 
  ### :pushpin: MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지
  - 주최 : OKKY
  - 일시 : 2019년 6월 13일(목) 20:00 - 21:40
@@ -50,17 +58,7 @@
 ## :black_square_button:참석예정
 
 
- 
-### :pushpin: I/O Extended 2019 in Korea Android
- - 주최 : GDG Korea Android
- - 일시 : 2019년 6월 15일(토) 12:00 - 18:00
- - 장소 : 구글 스타트업 캠퍼스 서울 지하2층(삼성역)  
- - 참조 : :link:https://festa.io/events/300  
- - 세션  
- :one:   
- :two:   
- :three:   
- :four:   
+
  
  ### :pushpin: I/O '19 Extended Pangyo
  - 주최 : GDG Korea Android
