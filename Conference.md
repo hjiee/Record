@@ -7,7 +7,7 @@
  - 장소 : 구글 스타트업 캠퍼스 서울 지하2층(삼성역)  
  - 참조 : :link:https://festa.io/events/300  
  - 세션  
- 
+ <img src="https://user-images.githubusercontent.com/39892463/59551382-a617b400-8fb3-11e9-9683-6ef4bbf7f75b.jpg" width="50%" height="50%">
  
  ### :pushpin: MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지
  - 주최 : OKKY
