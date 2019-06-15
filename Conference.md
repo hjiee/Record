@@ -55,10 +55,9 @@
 
 <br></br>
 
+------------------------
+
 ## :black_square_button:참석예정
-
-
-
  
  ### :pushpin: I/O '19 Extended Pangyo
  - 주최 : GDG Korea Android
