@@ -3,6 +3,11 @@
  - 느리더라도 꾸준히
  - 차곡차곡
  
+> resume  
+> email  
+> notion  
+> linkedIn  
+ 
 #
   ### :pushpin: Introduce
  - :link:[Introduce](https://github.com/hjiee/TIL/blob/master/Introduce.md) 나를 소개하는 공간.
