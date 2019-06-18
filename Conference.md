@@ -1,5 +1,5 @@
 # Conference
-## :ballot_box_with_check:참석완료  
+## :ballot_box_with_check:참석완료  [5]
 
 ### :pushpin: I/O Extended 2019 in Korea Android
  - 주최 : GDG Korea Android
@@ -57,7 +57,7 @@
 
 ------------------------
 
-## :black_square_button:참석예정
+## :black_square_button:참석예정 [3]
  
  ### :pushpin: I/O '19 Extended Pangyo
  - 주최 : GDG Korea Android
