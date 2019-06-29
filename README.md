@@ -10,12 +10,15 @@
        
 #
   ### :pushpin: Introduce
- - :link:[Introduce](https://github.com/hjiee/TIL/blob/master/Introduce.md) 나를 소개하는 공간.
+ - :link:[Introduce](https://github.com/hjiee/Record/tree/master/Introduce) 나를 소개하는 공간.
  
 ### :pushpin: Conference
- - :link:[Conference](https://github.com/hjiee/TIL/blob/master/Conference.md) 참석에 대한 정보를 기록하는 곳.
+ - :link:[Conference](https://github.com/hjiee/Record/tree/master/Conference) 참석에 대한 정보를 기록하는 곳.
  
  ### :pushpin: Hackathon
- - :link:[Hackathon](https://github.com/hjiee/TIL/blob/master/Hackathon.md) 참석에 대한 정보를 기록하는 곳.
+ - :link:[Hackathon](https://github.com/hjiee/Record/tree/master/Hackathon) 참석에 대한 정보를 기록하는 곳.
+
+ ### :pushpin: Mac
+ - :link:[Mac] (https://github.com/hjiee/Record/tree/master/Mac) 안드로이드스튜디오 맥 단축키
  
  
