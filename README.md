@@ -19,6 +19,6 @@
  - :link:[Hackathon](https://github.com/hjiee/Record/tree/master/Hackathon) 참석에 대한 정보를 기록하는 곳.
 
  ### :pushpin: Mac
- - :link:[Mac] (https://github.com/hjiee/Record/tree/master/Mac) 안드로이드스튜디오 맥 단축키
+ - :link:[Mac](https://github.com/hjiee/Record/tree/master/Mac) 안드로이드스튜디오 맥 단축키
  
  
