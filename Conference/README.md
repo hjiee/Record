@@ -1,6 +1,17 @@
 # Conference
 ## :ballot_box_with_check:참석완료  [5]  
 
+### :pushpin: I/O Extended 2019 Seoul
+ - 주최 : GDG Seoul
+ - 일시 : 2019년 6월 30일(일) 11:00 - 17:30
+ - 장소 : 세종대학교 지하2층 컨벤션 홀
+ - 참조 : :link:https://festa.io/events/299
+ - 세션  
+ :one:  
+ :two:  
+ :three:  
+ :four:   
+ 
  ### :pushpin: I/O '19 Extended Pangyo
  - 주최 : GDG Korea Android
  - 일시 : 2019년 6월 21일(금) 19:00 - 22:30
@@ -86,16 +97,7 @@
  :three: Wrap up  
 
 
-### :pushpin: I/O Extended 2019 Seoul
- - 주최 : GDG Seoul
- - 일시 : 2019년 6월 30일(일) 11:00 - 17:30
- - 장소 : 세종대학교 지하2층 컨벤션 홀
- - 참조 : :link:https://festa.io/events/299
- - 세션  
- :one:  
- :two:  
- :three:  
- :four:   
+
  
  
  ### :pushpin: [안드로이드 컨퍼런스]우리 회사는 이렇게 개발해요
