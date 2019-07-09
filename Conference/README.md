@@ -97,6 +97,16 @@
  :three: Wrap up  
 
 
+  ### :pushpin: [컨퍼런스] 모두의 TOY STORY : Side Project 어디까지 가봤니?
+ - 주최 : GDG Campus Korea
+ - 일시 : 2019년 7월 14일(일) 12:00 - 18:30
+ - 장소 : Google for Startups : Seoul (삼성역 3번출구 쪽 오토웨이타워 B2층)
+ - 참조 : :https://festa.io/events/364
+ - 세션  
+ :one:  
+ :two:  
+ :three:  
+ :four:  
 
  
  
@@ -110,4 +120,6 @@
  :two:  
  :three:  
  :four:  
+ 
+ 
 
