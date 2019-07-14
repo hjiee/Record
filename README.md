@@ -5,7 +5,7 @@
     
 > resume  
 > email  
-> notion  
+> notion   
 > linkedIn  
               
 #
