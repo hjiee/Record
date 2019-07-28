@@ -6,7 +6,7 @@
 > resume  
 > email  
 > notion    
-> linkedIn    
+> linkedIn     
                
 # 
   ### :pushpin: Introduce 
