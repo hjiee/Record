@@ -8,7 +8,7 @@
 > notion    
 > linkedIn     
                
-# 
+#  
   ### :pushpin: Introduce 
  - :link:[Introduce](https://github.com/hjiee/Record/tree/master/Introduce) 나를 소개하는 공간.
  
