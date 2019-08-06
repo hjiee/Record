@@ -1,6 +1,17 @@
 # Conference
 ## :ballot_box_with_check:참석완료  [5]  
 
+ ### :pushpin: [안드로이드 컨퍼런스]우리 회사는 이렇게 개발해요
+ - 주최 : 
+ - 일시 : 2019년 8월 4일(일) 11:00 - 18:30
+ - 장소 : 마루 지하1층 이벤트홀
+ - 참조 : :link:https://event-us.kr/ted/event/8421
+ - 세션  
+ :one:  
+ :two:  
+ :three:  
+ :four:  
+ 
   ### :pushpin: [컨퍼런스] 모두의 TOY STORY : Side Project 어디까지 가봤니?
  - 주최 : GDG Campus Korea
  - 일시 : 2019년 7월 14일(일) 12:00 - 18:30
@@ -112,16 +123,7 @@
 
 
  
- ### :pushpin: [안드로이드 컨퍼런스]우리 회사는 이렇게 개발해요
- - 주최 : 
- - 일시 : 2019년 8월 4일(일) 11:00 - 18:30
- - 장소 : 마루 지하1층 이벤트홀
- - 참조 : :link:https://event-us.kr/ted/event/8421
- - 세션  
- :one:  
- :two:  
- :three:  
- :four:  
+
  
  
 
