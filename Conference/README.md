@@ -108,7 +108,15 @@
 
 ------------------------
 
-## :black_square_button:참석예정 [3]  
+## :black_square_button:참석예정 [2]  
+ 
+  ### :pushpin: Kotlin/Everywhere Seoul 2019
+ - 주최 : GDG Seoul
+ - 일시 : 2019년 8월 26일(월) 20:00 - 22:00
+ - 장소 : 역삼동 마루180 지하1층 이벤트홀
+ - 참조 : :link:https://festa.io/events/422
+ - 세션  
+
  
  ### :pushpin: 만들면서 배우는 Flutter 코드랩
  - 주최 : 조은
