@@ -21,6 +21,10 @@
  ### :pushpin: Mac
  - :link:[Mac](https://github.com/hjiee/Record/tree/master/Mac) 안드로이드스튜디오 맥 단축키
  
+ ### :pushpin: 생각정리
+ - :link:[2019 상반기 회고](https://hjiee.tistory.com/entry/생각정리-2019-상반기회고)
+ - :link:[2019 하반기 회고]
+ 
  
   
  
