@@ -3,10 +3,10 @@
  - 느리더라도 꾸준히
  - 차곡차곡
     
-> resume    : [RESUME](https://github.com/hjiee/Resume)
-> email     : jin33032@gmail.com
-> blog      : [https://hjiee.tistory.com](https://hjiee.tistory.com)
-> linkedIn  : [https://www.linkedin.com/in/hyojin](https://www.linkedin.com/in/효진-배-797a96184/)
+> Resume    : [RESUME](https://github.com/hjiee/Resume)  
+> Email     : jin33032@gmail.com  
+> Blog      : [https://hjiee.tistory.com](https://hjiee.tistory.com)  
+> LinkedIn  : [https://www.linkedin.com/in/hyojin](https://www.linkedin.com/in/효진-배-797a96184/)     
                   
 #   
 ### :pushpin: Introduce 
