@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/hjiee/Record.svg)](http://hits.dwyl.io/hjiee/Record)  
 # :sunny: Today's record
  - 개발 일지 저장소
  - 느리더라도 꾸준히
