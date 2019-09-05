@@ -1,6 +1,21 @@
 # Conference
 ## :ballot_box_with_check:참석완료  [5]  
 
+  ### :pushpin: 안드로이드 탐구영역
+ - 주최 : GDG Korea Android
+ - 일시 : 2019년 8월 31일(토) 13:00 - 18:00
+ - 장소 : at 우아한형제들 작은집 7층
+ - 참조 : :link:https://festa.io/events/441
+ - 세션 
+ 
+  ### :pushpin: Kotlin/Everywhere Seoul 2019
+ - 주최 : GDG Seoul
+ - 일시 : 2019년 8월 26일(월) 20:00 - 22:00
+ - 장소 : 역삼동 마루180 지하1층 이벤트홀
+ - 참조 : :link:https://festa.io/events/422
+ - 세션 
+ 
+
  ### :pushpin: [안드로이드 컨퍼런스]우리 회사는 이렇게 개발해요
  - 주최 : Ted
  - 일시 : 2019년 8월 4일(일) 11:00 - 18:30
@@ -108,23 +123,9 @@
 
 ------------------------
 
-## :black_square_button:참석예정 [2]  
+## :black_square_button:참석예정 [0]  
  
-  ### :pushpin: Kotlin/Everywhere Seoul 2019
- - 주최 : GDG Seoul
- - 일시 : 2019년 8월 26일(월) 20:00 - 22:00
- - 장소 : 역삼동 마루180 지하1층 이벤트홀
- - 참조 : :link:https://festa.io/events/422
- - 세션 
- 
- 
-   ### :pushpin: 안드로이드 탐구영역
- - 주최 : GDG Korea Android
- - 일시 : 2019년 8월 31일(토) 13:00 - 18:00
- - 장소 : at 우아한형제들 작은집 7층
- - 참조 : :link:https://festa.io/events/441
- - 세션 
- 
+
 
 
 
