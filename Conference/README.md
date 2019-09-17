@@ -126,6 +126,17 @@
 ------------------------
 
 ## :black_square_button:참석예정 [1]  
+
+
+ 
+   ### :pushpin: [제3회 99콘 <이력서>]
+ - 주최 : 
+ - 일시 : 2019년 9월 21일(토) 12:00 - 18:00
+ - 장소 : 우아한형제들 작은집 7층 세미나홀
+ - 참조 : :link:https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2
+ - 세션  
+ :one: 
+ :two: 
  
   ### :pushpin: Android Studio Build Talk
  - 주최 : GDG Korea Android
