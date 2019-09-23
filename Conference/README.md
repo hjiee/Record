@@ -1,8 +1,17 @@
 # Conference
-## :ballot_box_with_check:참석완료  [12]  
+## :ballot_box_with_check:참석완료  [13]  
+
+  ### 13:pushpin: Android Studio Build Talk
+ - 주최 : GDG Korea Android
+ - 일시 : 2019년 9월 22일(일) 12:00 - 18:00
+ - 장소 : 쿠팡 17층
+ - 참조 : :link:https://festa.io/events/448
+ - 세션  
+ :one: 
+ :two: 
 
    ### 12:pushpin: [제3회 99콘 <이력서>]
- - 주최 : 
+ - 주최 : 이상한 모임
  - 일시 : 2019년 9월 21일(토) 12:00 - 18:00
  - 장소 : 우아한형제들 작은집 7층 세미나홀
  - 참조 : :link:https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2
@@ -132,17 +141,10 @@
 
 ------------------------
 
-## :black_square_button:참석예정 [1]  
+## :black_square_button:참석예정 [0]  
 
 
-  ### :pushpin: Android Studio Build Talk
- - 주최 : GDG Korea Android
- - 일시 : 2019년 9월 22일(일) 12:00 - 18:00
- - 장소 : 쿠팡 17층
- - 참조 : :link:https://festa.io/events/448
- - 세션  
- :one: 
- :two: 
+
 
 
 
