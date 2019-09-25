@@ -30,7 +30,7 @@
  - 일시 : 2019년 8월 26일(월) 20:00 - 22:00
  - 장소 : 역삼동 마루180 지하1층 이벤트홀
  - 참조 : :link:https://festa.io/events/422
- - 후기 : :link:
+ - 후기 : :link:https://hjiee.tistory.com/entry/컨퍼런스-KotlinEverywhere-Seoul-2019
  - 세션 :
  
 
