@@ -1,23 +1,24 @@
 # Conference
-## :ballot_box_with_check:참석완료  [13]  
+## :ballot_box_with_check:참석완료  [13]   
 
-  ### 13:pushpin: Android Studio Build Talk
- - 주최 : GDG Korea Android
- - 일시 : 2019년 9월 22일(일) 12:00 - 18:00
- - 장소 : 쿠팡 17층
- - 참조 : :link:https://festa.io/events/448
+### 13:pushpin: Android Studio Build Talk
+ - 주최 : GDG Korea Android   
+ - 일시 : 2019년 9월 22일(일) 12:00 - 18:00  
+ - 장소 : 쿠팡 17층  
+ - 참조 : :link:https://festa.io/events/448  
  - 세션  
  :one: 
- :two: 
-
-   ### 12:pushpin: [제3회 99콘 <이력서>]
+ :two:  
+ 
+### 12:pushpin: [제3회 99콘 <이력서>]
  - 주최 : 이상한 모임
  - 일시 : 2019년 9월 21일(토) 12:00 - 18:00
  - 장소 : 우아한형제들 작은집 7층 세미나홀
  - 참조 : :link:https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2
- - 후기 : :link:
+ - 후기 : :link:  
  
-  ### 11:pushpin: 안드로이드 탐구영역
+ 
+### 11:pushpin: 안드로이드 탐구영역
  - 주최 : GDG Korea Android
  - 일시 : 2019년 8월 31일(토) 13:00 - 18:00
  - 장소 : at 우아한형제들 작은집 7층
@@ -25,7 +26,7 @@
  - 후기 : :link:
  - 세션 :
  
-  ### 10:pushpin: Kotlin/Everywhere Seoul 2019
+### 10:pushpin: Kotlin/Everywhere Seoul 2019
  - 주최 : GDG Seoul
  - 일시 : 2019년 8월 26일(월) 20:00 - 22:00
  - 장소 : 역삼동 마루180 지하1층 이벤트홀
@@ -34,7 +35,7 @@
  - 세션 :
  
 
- ### 09:pushpin: [안드로이드 컨퍼런스]우리 회사는 이렇게 개발해요
+### 09:pushpin: [안드로이드 컨퍼런스]우리 회사는 이렇게 개발해요
  - 주최 : Ted
  - 일시 : 2019년 8월 4일(일) 11:00 - 18:30
  - 장소 : 마루 지하1층 이벤트홀
@@ -141,18 +142,20 @@
 
 ------------------------
 
-## :black_square_button:참석예정 [0]  
+## :black_square_button:참석예정 [1]  
 
-
-
-
+  ### 01:pushpin: GDG DevFest Seoul 2019
+ - 주최 : GDG Seoul
+ - 일시 : 2019년 10월 20일(일) 11:00 - 17:30
+ - 장소 : 세종대학교 지하2층 광개토관
+ - 참조 : :link:https://festa.io/events/559
 
 
 
 
 ## :black_square_button:미참가 [2]  
  
-  ### :pushpin: [개발자 컨퍼런스]슬기로운 개발생활
+  ### 02:pushpin: [개발자 컨퍼런스]슬기로운 개발생활
  - 주최 : Ted
  - 일시 : 2019년 9월 07일(토) 13:00 - 18:00
  - 장소 : 역삼동 마루180 지하1층 이벤트홀
@@ -160,7 +163,7 @@
  - 세션  
  
 
- ### :pushpin: 만들면서 배우는 Flutter 코드랩
+ ### 01:pushpin: 만들면서 배우는 Flutter 코드랩
  - 주최 : 조은
  - 일시 : 2019년 6월 29일(토) 13:30 - 16:30
  - 장소 : 구글 스타트업 캠퍼스
