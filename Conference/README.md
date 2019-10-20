@@ -1,6 +1,12 @@
 # Conference
 ## :ballot_box_with_check:참석완료  [13]   
 
+### 14:pushpin: GDG DevFest Seoul 2019
+ - 주최 : GDG Seoul
+ - 일시 : 2019년 10월 20일(일) 11:00 - 17:30
+ - 장소 : 세종대학교 지하2층 광개토관
+ - 참조 : :link:https://festa.io/events/559
+
 ### 13:pushpin: Android Studio Build Talk
  - 주최 : GDG Korea Android   
  - 일시 : 2019년 9월 22일(일) 12:00 - 18:00  
@@ -142,13 +148,9 @@
 
 ------------------------
 
-## :black_square_button:참석예정 [1]  
+## :black_square_button:참석예정 [0]  
 
-  ### 01:pushpin: GDG DevFest Seoul 2019
- - 주최 : GDG Seoul
- - 일시 : 2019년 10월 20일(일) 11:00 - 17:30
- - 장소 : 세종대학교 지하2층 광개토관
- - 참조 : :link:https://festa.io/events/559
+
 
 
 
