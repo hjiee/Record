@@ -148,9 +148,13 @@
 
 ------------------------
 
-## :black_square_button:참석예정 [0]  
+## :black_square_button:참석예정 [1]  
 
-
+ ### 01:pushpin: DevFest Pangyo 2019 : Fun Thing is Good!
+ - 주최 : GDG Pangyo
+ - 일시 : 2019년 11월 15일(금) 19:00 - 22:30
+ - 장소 : at 카카오 판교오피스 7층 스위치온 A, B
+ - 참조 : :link:https://festa.io/events/606
 
 
 
