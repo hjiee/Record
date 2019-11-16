@@ -1,5 +1,11 @@
 # Conference
-## :ballot_box_with_check:참석완료  [13]   
+## :ballot_box_with_check:참석완료  [15]   
+
+### 15:pushpin: DevFest Pangyo 2019 : Fun Thing is Good!
+ - 주최 : GDG Pangyo
+ - 일시 : 2019년 11월 15일(금) 19:00 - 22:30
+ - 장소 : at 카카오 판교오피스 7층 스위치온 A, B
+ - 참조 : :link:https://festa.io/events/606
 
 ### 14:pushpin: GDG DevFest Seoul 2019
  - 주최 : GDG Seoul
@@ -148,13 +154,9 @@
 
 ------------------------
 
-## :black_square_button:참석예정 [1]  
+## :black_square_button:참석예정 [0]  
 
- ### 01:pushpin: DevFest Pangyo 2019 : Fun Thing is Good!
- - 주최 : GDG Pangyo
- - 일시 : 2019년 11월 15일(금) 19:00 - 22:30
- - 장소 : at 카카오 판교오피스 7층 스위치온 A, B
- - 참조 : :link:https://festa.io/events/606
+
 
 
 
