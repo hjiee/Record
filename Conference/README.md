@@ -154,13 +154,18 @@
 
 ## :black_square_button:참석예정 [1]  
 
-### 01:pushpin: [제3회 99콘 <이력서>]
- - 주최 : 이상한 모임
+### 02:pushpin: [Android Dev Summit 2019 extended Seoul]
+ - 주최 : GDG Korea Android
  - 일시 : 2019년 12월 21일(토) 13:00 - 18:00
- - 장소 : 우아한형제들 작은집 7층 세미나홀
- - 참조 : :link:https://www.notion.so/3-99-e9730dcfd84f4639a796ed202304b6c2
- - 후기 : :link:  
+ - 장소 : at 구글 스타트업 캠퍼스
+  - 참조 : :link:https://festa.io/events/744
 
+### 01:pushpin: [스타일쉐어 컨퍼런스 2회 - Android]
+ - 주최 : StyleShare
+ - 일시 : 2019년 12월 03일(수) 19:00 - 22:00
+ - 장소 : at StyleShare 2층 커뮤니티 라운지
+ - 참조 : :link:https://festa.io/events/764
+ - 후기 : :link:  
 
 
 
