@@ -1,5 +1,13 @@
 # Conference
-## :ballot_box_with_check:참석완료  [15]   
+## :ballot_box_with_check:참석완료  [16]   
+
+### 16:pushpin: [스타일쉐어 컨퍼런스 2회 - Android]
+ - 주최 : StyleShare
+ - 일시 : 2019년 12월 03일(수) 19:00 - 22:00
+ - 장소 : at StyleShare 2층 커뮤니티 라운지
+ - 참조 : :link:https://festa.io/events/764
+ - 후기 : :link:  
+ 
 
 ### 15:pushpin: DevFest Pangyo 2019 : Fun Thing is Good!
  - 주최 : GDG Pangyo
@@ -154,18 +162,11 @@
 
 ## :black_square_button:참석예정 [1]  
 
-### 02:pushpin: [Android Dev Summit 2019 extended Seoul]
+### 01:pushpin: [Android Dev Summit 2019 extended Seoul]
  - 주최 : GDG Korea Android
  - 일시 : 2019년 12월 21일(토) 13:00 - 18:00
  - 장소 : at 구글 스타트업 캠퍼스
   - 참조 : :link:https://festa.io/events/744
-
-### 01:pushpin: [스타일쉐어 컨퍼런스 2회 - Android]
- - 주최 : StyleShare
- - 일시 : 2019년 12월 03일(수) 19:00 - 22:00
- - 장소 : at StyleShare 2층 커뮤니티 라운지
- - 참조 : :link:https://festa.io/events/764
- - 후기 : :link:  
 
 
 
