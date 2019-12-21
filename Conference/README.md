@@ -1,5 +1,11 @@
 # Conference
-## :ballot_box_with_check:참석완료  [16]   
+## :ballot_box_with_check:참석완료  [17]   
+
+### 17:pushpin: [Android Dev Summit 2019 extended Seoul
+ - 주최 : GDG Korea Android
+ - 일시 : 2019년 12월 21일(토) 13:00 - 18:00
+ - 장소 : at 구글 스타트업 캠퍼스
+  - 참조 : :link:https://festa.io/events/744
 
 ### 16:pushpin: [스타일쉐어 컨퍼런스 2회 - Android]
  - 주최 : StyleShare
@@ -160,13 +166,9 @@
 
 ------------------------
 
-## :black_square_button:참석예정 [1]  
+## :black_square_button:참석예정 [0]  
 
-### 01:pushpin: [Android Dev Summit 2019 extended Seoul]
- - 주최 : GDG Korea Android
- - 일시 : 2019년 12월 21일(토) 13:00 - 18:00
- - 장소 : at 구글 스타트업 캠퍼스
-  - 참조 : :link:https://festa.io/events/744
+
 
 
 
