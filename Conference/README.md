@@ -1,7 +1,13 @@
 # Conference
-## :ballot_box_with_check:참석완료  [17]   
+## :ballot_box_with_check:참석완료  [18]   
 
-### 17:pushpin: [Android Dev Summit 2019 extended Seoul
+### 18:pushpin: [Super.Init(version=2)]
+ - 주최 : GDG Korea Android
+ - 일시 : 2020년 05월 07일(목) 20:00 - 21:20
+ - 장소 : at YouTube
+  - 참조 : :link:https://festa.io/events/987
+  
+### 17:pushpin: [Android Dev Summit 2019 extended Seoul]
  - 주최 : GDG Korea Android
  - 일시 : 2019년 12월 21일(토) 13:00 - 18:00
  - 장소 : at 구글 스타트업 캠퍼스
