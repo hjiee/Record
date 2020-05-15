@@ -1,6 +1,12 @@
 # Conference
-## :ballot_box_with_check:참석완료  [18]   
+## :ballot_box_with_check:참석완료  [19]   
 
+### 19:pushpin: [3차] 찰스의 안드로이드 오프라인 밋업
+ - 주최 : GDG Korea Android
+ - 일시 : 2020년 05월 17일(일) 10:00 - 12:20
+ - 장소 : at [SG스터디룸 신관]서울특별시 서초구 서초대로78길 26 4층 렉쳐룸
+  - 참조 : :link:https://www.onoffmix.com/event/214484
+  
 ### 18:pushpin: [Super.Init(version=2)]
  - 주최 : GDG Korea Android
  - 일시 : 2020년 05월 07일(목) 20:00 - 21:20
